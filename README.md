@@ -1,0 +1,2 @@
+# EqRangeAccrual
+A callable range accrual note contains an embedded option that allows the issuer to exercise a call on the note on a particular date or set of dates prior to maturity. This can be used by the issuer to limit the return that is paid to the note holder. On these exercise dates, the issuer may purchase the note back from the holder for a predetermined cash amount, which is typically equal to or greater than the face value of the note. 
