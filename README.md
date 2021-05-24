@@ -30,5 +30,9 @@ Due to the complexity of the product, the note is normally priced via Monte Carl
 
 
 Reference:
+
 https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/eqrange/downloads/EqRangeAccrual-27.pdf
+
 
